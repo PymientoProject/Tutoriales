@@ -12,5 +12,5 @@
        * [Repositorio de otro](repositorio_de_otro.md)
            * [Fork - Copiar un repositorio](fork_-_copiar_un_repositorio.md)
            * [Pull-Request - Subir cambios](pull-request_-_subir_cambios.md)
-       * Aceptar cambios
+       * [Aceptar cambios](aceptar_cambios.md)
 

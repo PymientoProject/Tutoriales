@@ -22,3 +22,5 @@ Le damos a _"enter"_ y nos copiará el archivo en local
 Al abrir la carpeta podemos comprobar que tenemos todos los archivos del repo de Github en local (la carpeta .git y .gitignore se ve si está activa la opción de ver los archivos ocultos).
 
 ![](Captura de pantalla de 2016-06-14 13:24:39.png)
+
+Por último, y aunque este paso puede ir en otro lado, (por ejemplo a principio de la página siguiente), se recomienda inicializar el repositorio

@@ -1,27 +1,7 @@
 # Repositorio propio
 
 Supongamos que ya tenemos nuestra cuenta de Github creada y configurada. Vamos a ver como trabajar con nuestros propios repositorios.
-## 1) Crear repositorio en Github
-En nuestro menu principal de Github, le damos al botón verde que pone _"New Repository"_
 
-![](Captura de pantalla de 2016-06-14 11:45:52.png)
-
-Se nos abrirá la siguiente pantalla donde tendremos que indicar:
-
-- Nombre del repositorio.
-- Descripción del repositorio (muy recomendable ponerla).
-- Elegir si el repositorio es público / privado.
-- Check para inicializar un README.MD (recomendable marcarlo).
-- Opciones para el .gitignore (obviarlo ahora).
-- Licencia del repositorio (ahora mismo da igual, pero es muy importante).
-
-Y le damos a _"Create repository"_
-
-![](Captura de pantalla de 2016-06-14 11:48:12.png)
-
-Y ahora tendremos nuestro repositorio creado y de esta guisa
-
-![](Captura de pantalla de 2016-06-14 11:48:34.png)
 
 ## 2) Hacer una copia local 
 El siguiente paso para trabajar con el repo de Github es hacerse una copia en tu ordenador para poder manipularlo. Para ello veremos que hay un botón que pone _"Clone or download"_ al darle, saldrá una url, que en mi caso es ```https://github.com/notnilk/repo-ejemplo.git```, y la copio.

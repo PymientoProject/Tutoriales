@@ -36,8 +36,10 @@ O podemos añadir todo de una vez con el comando
 
 ```git add .```
 
-Pero todavía no hemos acabado, ahora hace falta subir los archivos al repositorio local. El ejemplo fácil para que esto se entienda es:
+Pero todavía no hemos acabado, ahora hace falta subir los archivos al repositorio local. Un ejemplo fácil para que esto se entienda es:
 
 - Imaginemos que hemos alquilado un coche de rent-a-car, le hemos hecho de todo y ahora vamos a devolverlo.
 - Con el _git add ..._ lo que hemos hecho es aparcarlo en el recinto de la compañía de renting, pero no les hemos dado las llaves.
-- Para entregarles las llaves, que acabe el papeleo y te
+- Para entregarles las llaves y acabar todo el trámite usaremos el commando _git commit algo_
+
+Para subir los cambios al repositorio 

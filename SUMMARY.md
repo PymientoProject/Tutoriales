@@ -8,4 +8,5 @@
        * [Crear repositorio en Github](crear_repositorio_en_github.md)
        * [Clonar a un repositorio copia en local](crear_copia_en_local.md)
        * Añadir cambios en tu repositorio local
+       * Subir tus cambios al repositorio de Github
 

@@ -11,5 +11,5 @@
            * [Subir cambios a Github](subir_tus_cambios_al_repositorio_de_github.md)
        * [Repositorio de otro](repositorio_de_otro.md)
            * [Fork - Copiar un repositorio](fork_-_copiar_un_repositorio.md)
-           * Pull-Request - Subir cambios
+           * [Pull-Request - Subir cambios](pull-request_-_subir_cambios.md)
 

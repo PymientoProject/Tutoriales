@@ -1,6 +1,6 @@
 # GIT-GITHUB
 
-[Git](https://git-scm.com/) es un software creado para poder elaborar proyectos software en equipo de manera distribuida / en remoto. Su cometido es mantener distintas versiones del código para poder ser manipulado por equipos. Es decir, podremos tener tanto la última versión de un proyecto, como cualquiera versión anterior, todo en la misma carpeta.
+[Git](https://git-scm.com/) es un software multiplataforma (disponible para Linux, Windows y Mac) creado para poder elaborar proyectos software en equipo de manera distribuida / en remoto. Su cometido es mantener distintas versiones del código para poder ser manipulado por equipos. Es decir, podremos tener tanto la última versión de un proyecto, como cualquiera versión anterior, todo en la misma carpeta.
 
 Git es Open Source y gratuito (que son cosas distintas). En un principio se creó para que los desarrolladores del kernel / nucleo de Linux pudieran trabajar conjuntamente.
 

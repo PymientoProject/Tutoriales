@@ -6,3 +6,9 @@ Git es multiplataforma, se puede usar en Linux, Windows y Mac. Para poder instal
 En Linux viene instalado por defecto en la mayoría de las distros. Abrimos una terminal y ponemos:
 - Ubuntu y derivados ```sudo apt-get install git-all```
 - Fedora y derivados ```sudo yum install git-all```
+Más info en [Git-Linux](http://git-scm.com/download/linux)
+## Windows
+Para windows, descargar el programa
+
+## Mac
+

@@ -10,6 +10,7 @@ Ahora abro una terminal y me pongo dentro de esta carpeta. Para ello en Linux us
 ```cd <nombre_carpeta>```
 
 ![](Captura de pantalla de 2016-06-14 13:04:45.png)
+
 Ahora mediante el comando _"git"_ clonamos el repositorio en esa carpeta. La sentencia a introducir es _"git clone <url del repo>"_ así que en mi caso queda como 
 
 ```git clone https://github.com/notnilk/repo-ejemplo.git```
@@ -17,3 +18,7 @@ Ahora mediante el comando _"git"_ clonamos el repositorio en esa carpeta. La sen
 Le damos a _"enter"_ y nos copiará el archivo en local
 
 ![](Captura de pantalla de 2016-06-14 13:08:35.png)
+
+Al abrir la carpeta podemos comprobar que tenemos todos los archivos del repo de Github en local (la carpeta .git y .gitignore se ve si está activa la opción de ver los archivos ocultos).
+
+![](Captura de pantalla de 2016-06-14 13:24:39.png)

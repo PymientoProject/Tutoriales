@@ -4,5 +4,5 @@
 * [Git-Github](git-github.md)
    * [Instalación de Git](instalacion-git.md)
    * [Github](github-alta.md)
-   * Repositorio propio
+   * [Repositorio propio](repositorio_propio.md)
 

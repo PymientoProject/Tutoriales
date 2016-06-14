@@ -18,3 +18,4 @@ Al darle al botón _"Create pull request"_ se mandará por fin la subida al repo
 ![](Captura de pantalla de 2016-06-14 16:03:08.png)
 
 
+En el siguiente apartado podemos ver como aceptar cambios de otros.

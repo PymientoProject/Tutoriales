@@ -1,10 +1,10 @@
 # Trabajar con el repositorio local
 
 
-Aunque tengamos la carpeta en local con la que podemos añadirle / quitarle cosas, para trabajar con ella como repositorio seguiremos usando la terminal con el comando _git_. Así que hay que diferenciar entre dos conceptos, repositorio y carpeta (aunque visualmente es lo mismo):
+Aunque tengamos la carpeta en local con la que podemos añadirle / quitarle cosas, para trabajar con ella como repositorio seguiremos usando la terminal con el comando _git_. Así que hay que diferenciar entre dos conceptos, _repositorio_ y _carpeta_ (aunque visualmente es lo mismo):
 
 - La carpeta para nosotros va a ser la propia carpeta esa que tenemos generada y con la que vamos a trabajar normal y corriente.
-- El repositorio es esa misma carpeta que la trataremos a través de _git_ para hacerle otras operaciones. La carpeta _.git_ es la que tiene toda la información del repositorio, así que es recomendable no tocarla.
+- El repositorio es esa misma carpeta, pero que la trataremos a través de _git_ para hacerle otras operaciones. La carpeta _.git_ es la que tiene toda la información del repositorio, así que es recomendable no tocarla.
 
 El primer paso es inicializar el repositorio, para git pueda saber que hacemos dentro de la carpeta. Para ello abrimos la terminal, nos vamos a nuestra carpeta con el comando _"cd nombre_carpeta"_ y ejecutamos luego el comando _"git init"_
 
@@ -33,5 +33,11 @@ git add archivo2.txt
 git add archivo3.txt
 ```
 O podemos añadir todo de una vez con el comando
+
 ```git add .```
-Pero todavía no hemos
+
+Pero todavía no hemos acabado, ahora hace falta subir los archivos al repositorio local. El ejemplo fácil para que esto se entienda es:
+
+- Imaginemos que hemos alquilado un coche de rent-a-car, le hemos hecho de todo y ahora vamos a devolverlo.
+- Con el _git add ..._ lo que hemos hecho es aparcarlo en el recinto de la compañía de renting, pero no les hemos dado las llaves.
+- Para entregarles las llaves, que acabe el papeleo y te

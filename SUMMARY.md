@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Git-Github](git-github.md)
+   * Repositorio de otro
    * [Instalación de Git](instalacion-git.md)
    * [Github](github-alta.md)
        * Repositorio de otro

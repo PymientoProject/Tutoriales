@@ -10,5 +10,4 @@
        * [Clonar a un repositorio copia en local](crear_copia_en_local.md)
        * [Trabajar en local](anadir_cambios_en_tu_repositorio_local.md)
        * [Subir cambios a Github](subir_tus_cambios_al_repositorio_de_github.md)
-   * Repositorio de otro
 

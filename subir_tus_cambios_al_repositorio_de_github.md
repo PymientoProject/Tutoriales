@@ -1,2 +1,2 @@
-# Subir tus cambios al repositorio de Github
+# Subir cambios al repositorio de Github
 

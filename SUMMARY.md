@@ -6,4 +6,5 @@
    * [Github](github-alta.md)
    * [Repositorio propio](repositorio_propio.md)
        * [Crear repositorio en Github](crear_repositorio_en_github.md)
+       * Crear copia en local
 

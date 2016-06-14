@@ -8,6 +8,7 @@ Git es Open Source y gratuito (que son cosas distintas). En un principio se cre�
 
 GitHub no es Open Source, y es gratuita solo si tus repositorios son públicos (para tener repositorios privados debes de pagar). Se ha convertido casi en el portfolio estandar para cualquier desarrollador. Prácticamente cualquier proyecto Open Source de cualquier en envergadura está en Github. Ejemplos de proyectos / empresas que tienen sus repositorios en Github:
 
+- [Git](https://github.com/git)
 - [Python](https://github.com/python)
 - [Arduino](https://github.com/arduino)
 - [Processing](https://github.com/processing)

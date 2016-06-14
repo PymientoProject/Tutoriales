@@ -10,5 +10,5 @@ Los pasos a seguir son:
 - Subir tus cambios al repositorio de Github
 - **Subir los cambios al repositorio de la otra persona (Pull-Request)***
 
-Vamos a ver solo el primer y el último paso, ya que lo otros se han visto.
+Vamos a ver solo el primer y el último paso, ya que lo otros se han visto. La suerte además de estos 2 pasos nuevos es que todo lo vamos a hacer a golpe de ratón desde Github.
 

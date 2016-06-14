@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Git-Github](git-github.md)
-   * [Instalación](instalacion.md)
+   * [Instalación de Git](instalacion.md)
 

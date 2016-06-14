@@ -23,4 +23,3 @@ Al abrir la carpeta podemos comprobar que tenemos todos los archivos del repo de
 
 ![](Captura de pantalla de 2016-06-14 13:24:39.png)
 
-Por último, y aunque este paso puede ir en otro lado, (por ejemplo a principio de la página siguiente), se recomienda inicializar el repositorio

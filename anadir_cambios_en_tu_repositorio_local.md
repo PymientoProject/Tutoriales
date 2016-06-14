@@ -42,4 +42,12 @@ Pero todavía no hemos acabado, ahora hace falta subir los archivos al repositor
 - Con el _git add ..._ lo que hemos hecho es aparcarlo en el recinto de la compañía de renting, pero no les hemos dado las llaves.
 - Para entregarles las llaves y acabar todo el trámite usaremos el commando _git commit algo_
 
-Para subir los cambios al repositorio 
+Para subir los cambios al repositorio vamos a usar el siguiente comando
+```
+git commit -m "mensaje de ayuda para la subida"
+```
+El ```-m "mensaje de ayuda para la subida"``` es opcional, pero a larga es muy necessario para saber que se ha hecho en esa subida, así que usadlo si o si por favor.
+
+![](Captura de pantalla de 2016-06-14 15:20:36.png)
+
+

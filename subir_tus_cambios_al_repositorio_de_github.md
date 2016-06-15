@@ -1,5 +1,5 @@
 # Subir cambios a Github
-Para subir nuestros cambios a nuestro repositorio en Github es ya solo un soplido. Solo hay que usar un comando, _git push_
+Para subir nuestros cambios a nuestro repositorio en Github es ya solo un soplido. Solo hay que usar un comando, _git push_ 
 ```
 git push <url del repositorio>
 ```

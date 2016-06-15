@@ -1,7 +1,7 @@
 # Trabajar con el repositorio local
 
 
-Aunque tengamos la carpeta en local con la que podemos añadirle / quitarle cosas, para trabajar con ella como repositorio seguiremos usando la terminal con el comando _git_. Así que hay que diferenciar entre dos conceptos, _repositorio_ y _carpeta_ (aunque visualmente es lo mismo):
+Aunque tengamos la carpeta en local con la que podemos añadirle / quitarle cosas, para trabajar con ella como repositorio seguiremos usando la terminal con el comando _git_. Así que hay que diferenciar entre dos conceptos, _repositorio_ y _carpeta_ (aunque visualmente es lo mismo): 
 
 - La carpeta para nosotros va a ser la propia carpeta esa que tenemos generada y con la que vamos a trabajar normal y corriente.
 - El repositorio es esa misma carpeta, pero que la trataremos a través de _git_ para hacerle otras operaciones. La carpeta _.git_ es la que tiene toda la información del repositorio, así que es recomendable no tocarla.

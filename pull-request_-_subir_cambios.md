@@ -1,6 +1,6 @@
 # Pull-Request - Subir cambios
 
-Una vez tengamos todos los cambios subidos en el repositorio copia de nuestro Github, ahora que lo queda es mandarle nuestros cambios al dueño del repositorio. Para ello tenemos un botón arriba a la izquierda que pone _"New pull request"_
+Una vez tengamos todos los cambios subidos en el repositorio copia de nuestro Github, ahora que lo queda es mandarle nuestros cambios al dueño del repositorio. Para ello tenemos un botón arriba a la izquierda que pone _"New pull request"_ 
 
 
 ![](Captura de pantalla de 2016-06-14 15:59:42.png)

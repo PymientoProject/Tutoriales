@@ -1,6 +1,6 @@
 # Crear reposirotio en Github
 
-En nuestro menu principal de Github, le damos al botón verde que pone _"New Repository"_
+En nuestro menu principal de Github, le damos al botón verde que pone _"New Repository"_ 
 
 ![](Captura de pantalla de 2016-06-14 11:45:52.png)
 

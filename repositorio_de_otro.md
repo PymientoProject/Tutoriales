@@ -1,7 +1,6 @@
 # Repositorio de otro
 
-Para trabajar con un repositorio de otra persona es muy parecido a como se ha visto antes, solo hay que añadir un paso antes y otro al final:
-Los pasos a seguir son:
+Para trabajar con un repositorio de otra persona es muy parecido a como se ha visto antes, solo hay que añadir un paso antes y otro al final. Los pasos a seguir son:
 
 - **Copiar el repositorio de otra persona a tu Github (Fork)**
 - Crear un repositorio en Github

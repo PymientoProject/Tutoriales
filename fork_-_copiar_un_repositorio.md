@@ -1,6 +1,6 @@
 # Fork - Copiar un repositorio
 
-Supongamos que queremos modificar un repositorio de otra persona. Para este ejemplo vamos a usar el repositorio _cristo_ de la organización _Pymiento Project_
+Supongamos que queremos modificar un repositorio de otra persona. Para este ejemplo vamos a usar el repositorio _cristo_ de la organización _Pymiento Project_ 
 
 ![](Captura de pantalla de 2016-06-14 15:53:48.png)
 

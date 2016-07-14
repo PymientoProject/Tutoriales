@@ -1,6 +1,6 @@
 # Slack
 
-Slack es una herramienta de comunicación para equipos, es decir, un whatsapp para poder gestionar equipos. Es similar a los antiguos chats IRC, pero presenta una interfaz amigable, bonita.
+[Slack](https://slack.com/) es una herramienta de comunicación para equipos, es decir, un whatsapp para poder gestionar equipos. Es similar a los antiguos chats IRC, pero presenta una interfaz amigable, bonita.
 
 Podemos usar Slack desde:
 * [Página web](https://slack.com/)

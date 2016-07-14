@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Slack](slack.md)
 * [Git-Github](git-github.md)
    * [Instalación de Git](instalacion-git.md)
    * [Github](github-alta.md)

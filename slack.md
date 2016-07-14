@@ -6,7 +6,7 @@ Podemos usar Slack desde:
 * [Página web](https://slack.com/)
 * [Aplicación para ordenador / móvil](https://slack.com/downloads)
 
-### Primeros pasos
+## Primeros pasos
 Os habrá llegado una invitación al correo para ser miembros de el canal / dominio de Slack Pymiento. Es importante que no la perdáis porque no se puede reenviar. Sea como fuere, vamos a la página principal de Slack y le damos a _"Sign in"_ (suele estar arriba a la derecha).
 
 ![](Captura de pantalla de 2016-07-14 13:42:19.png)

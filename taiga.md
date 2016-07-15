@@ -30,3 +30,4 @@ Vamos a generar las tareas en la columna _"nueva"_,rellenamos bien el post-it (a
 
 ![](Captura de pantalla de 2016-07-14 14:08:12.png)
 
+Si exploráis la herramienta, veréis que tiene más opciones (una Wiki, una sala de videoconferencias, otra tablero de trabajo llamado _"Backlog"_, etc) que iremos aprendiendo conforme vayamos avanzando en todo el transcurso de Pymiento.

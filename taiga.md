@@ -4,6 +4,8 @@
 
 **NOTA**: A la hora de escribir estas líneas, la herramienta no tiene manual de uso como tal. Puede deberse a que al ser un producto español, la hora de desarrollar este es en la hora de la siesta
 
+Al igual que en Slack, habréis recibido una invitación por correo para daros de alta / participar en Taiga, no la puedo reenviar así que por favor, buscadla y dadle al enlace que os viene.
+
 
 ![](Captura de pantalla de 2016-07-14 14:05:47.png)
 

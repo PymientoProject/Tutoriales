@@ -9,7 +9,8 @@ Para actualizar los contenidos de la web hay dos puntos importantes a tocar.
 
 En este archivo se estructura el árbol de contenidos de la web. Cada nodo es una página, con sus propiedades particulares. Por ejemplo:
 
->>> "pages":[
+> "pages":[
+> 
 		{
 			"title":"About",
 			"introduction":"",
@@ -35,5 +36,20 @@ Por otro lado "link" crea un enlace al contenido. Por ejemplo, el perfil de "Gon
 
 ## data.md
 Por ejemplo, si Cristo quisiera rellenar su perfil personal, dentro del directorio people/cristo-contreras-rubio podrá encontrar un archivo data.md. En ese archivo podrá rellenar todos sus contenidos de texto en formato Markdown. Siguiendo el ejemplo, si quisiera poner una imagen suya, lo conveniente es que la suba dentro de su propio directorio, por ejemplo "people/cristo-contreras-rubio/mi-foto.jpg" y que la enlace con Markdown del siguiente modo:
->>> \[Conectando servidores]\(mi-foto.jpg)
 
+> \[Conectando servidores]\(mi-foto.jpg)
+
+La imágen se ajusta automáticamente al ancho máximo del contenido que es 880 píxeles.
+
+Si quisiéramos que la imagen ocupe el ancho completo de la pantalla tenemos que agregar un parámetro adicional después del parámetro del archivo. Este parámetro se escribe así:
+> \(full)
+
+Y se usa así:
+> \[Conectando servidores]\(mi-foto.jpg)\(full)
+
+Para ver un ejemplo de esta diferencia entre imagen a 880px o "full" podéis pasar por aquí:  [http://thepymientoproject.com/people/gonzalo-moyano/](http://thepymientoproject.com/people/gonzalo-moyano/)
+
+## Consideraciones
+* El javascript que parsea los Markdown es de código ajeno y tiene unos pequeños problemas: cuando creen un "# Titulo" siempre hay que dejar un espacio entre el # y el texto, y por último siempre hay qye dejar más de un salto de linea después de un titular.
+* Para un futuro cercano quiero modificar el markdown del link para hacer que pueda tener un "target=_blank" ya que no me parece bien estar yéndote la página de pimiento ante cualquier referencia externa que pongamos.
+* Finalmente, haré un markdown nuevo para embeber vídeos de youtube, vimeo, etc.

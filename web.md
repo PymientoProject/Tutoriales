@@ -1,16 +1,16 @@
 # Web
 
-Para actualizar los contenidos de la web hay dos puntos importantes a tocar.
+Para actualizar los contenidos de la web hay dos puntos importantes a tocar:
 
-* el archivo structure.json del raíz
-* los archivos data.md de cada directorio
+* El archivo **structure.json** del raíz
+* Los archivos **data.md** de cada directorio
 
 ## structure.json
 
 En este archivo se estructura el árbol de contenidos de la web. Cada nodo es una página, con sus propiedades particulares. Por ejemplo:
 
-> "pages":[
-> 
+``` 
+"pages":[
 		{
 			"title":"About",
 			"introduction":"",
@@ -21,6 +21,7 @@ En este archivo se estructura el árbol de contenidos de la web. Cada nodo es un
 			"pages":[]
 		}
      ]
+     ```
 
 Como en el ejemplo anterior, si la propiedad "pages" está vacío, esta página se puede considerar que es una hoja del árbol. En el caso contrario, como es el caso de Works y People, pages funciona a modo de rama.
 
@@ -37,17 +38,25 @@ Por otro lado "link" crea un enlace al contenido. Por ejemplo, el perfil de "Gon
 ## data.md
 Por ejemplo, si Cristo quisiera rellenar su perfil personal, dentro del directorio people/cristo-contreras-rubio podrá encontrar un archivo data.md. En ese archivo podrá rellenar todos sus contenidos de texto en formato Markdown. Siguiendo el ejemplo, si quisiera poner una imagen suya, lo conveniente es que la suba dentro de su propio directorio, por ejemplo "people/cristo-contreras-rubio/mi-foto.jpg" y que la enlace con Markdown del siguiente modo:
 
-> \[Conectando servidores]\(mi-foto.jpg)
+ ```
+ \[Conectando servidores]\(mi-foto.jpg)
+ ```
 
 La imágen se ajusta automáticamente al ancho máximo del contenido que es 880 píxeles.
 
 Si quisiéramos que la imagen ocupe el ancho completo de la pantalla tenemos que agregar un parámetro adicional después del parámetro del archivo. Este parámetro se escribe así:
-> \(full)
+ ```
+ \(full)
+ ```
 
 Y se usa así:
-> \[Conectando servidores]\(mi-foto.jpg)\(full)
+ ```
+ \[Conectando servidores]\(mi-foto.jpg)\(full)
+ ```
 
-Para ver un ejemplo de esta diferencia entre imagen a 880px o "full" podéis pasar por aquí:  [http://thepymientoproject.com/people/gonzalo-moyano/](http://thepymientoproject.com/people/gonzalo-moyano/)
+Para ver un ejemplo de esta diferencia entre imagen a 880px o "full" podéis pasar por aquí:  
+
+[http://thepymientoproject.com/people/gonzalo-moyano/](http://thepymientoproject.com/people/gonzalo-moyano/)
 
 ## Consideraciones
 * El javascript que parsea los Markdown es de código ajeno y tiene unos pequeños problemas: cuando creen un "# Titulo" siempre hay que dejar un espacio entre el # y el texto, y por último siempre hay qye dejar más de un salto de linea después de un titular.

@@ -25,7 +25,7 @@ En este archivo se estructura el árbol de contenidos de la web. Cada nodo es un
 
 Como en el ejemplo anterior, si la propiedad "pages" está vacío, esta página se puede considerar que es una hoja del árbol. En el caso contrario, como es el caso de Works y People, pages funciona a modo de rama.
 
-### Creando nuevos conenidos
+### Creando nuevos contenidos
 Al crear una página nueva, por ejemplo un proyecto nuevo, tenemos que duplicar el directorio "empty" renombrándolo con el nombre del proyecto a modo de URL amigable, por ejemplo: "super-cool-project". Esta carpeta nueva contiene 2 archivos: un index.html al que no hay que meterle mano, y un data.md que es el que utilizaremos para rellenarlo con nuestros contenidos con el formato Markdown. Si este proyecto nuevo tiene imágenes, lo recomendable es subirlas dentro del directorio, para acceder a ellas sin tener que recordar el nombre de la ruta de la imágen.
 
 ### Eliminar contenidos
